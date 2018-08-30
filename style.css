@@ -1,0 +1,48 @@
+body{
+ background: #c5dfc5;
+}
+
+.nav-bar
+{
+   border-bottom:solid black 1px;
+   border-top:solid black 1px;
+   padding: 15px;
+
+}
+
+.nav-item
+{
+    text-transform: uppercase;
+    list-style-type: none;
+    display: inline;
+    margin: 10px 50px;
+}
+
+.img
+{
+    font-size: 8rem;
+}
+
+.right{
+    align-content: right;
+}
+
+.text-aling-right
+{
+    text-align: right;
+}
+
+.card
+{
+    margin: 10px 35px;
+    background-color: white;
+}
+
+.wrapper
+{
+width: 80%;
+max-width: 1200px;
+min-width: 300px;
+background: forestgreen;
+margin: 0 auto;
+}
